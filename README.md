@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-ip-filter.
+
 # think-ip-filter
 
 IP filter middleware for **ThinkJS 2.0**, support whiteList & blackList.
